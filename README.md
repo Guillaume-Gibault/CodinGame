@@ -7,7 +7,8 @@
 This repository is meant as a personal archive of problems I've solved on [CodinGame](https://www.codingame.com/), organized by difficulty.
 
 ### 💻 Languages Used
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### 📁 Structure
 ```
